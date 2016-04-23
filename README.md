@@ -2,4 +2,4 @@
 
 Bus OTAN simulator running on local network
 
-Monitor of the bus
+Monitor (watcher) of the bus
